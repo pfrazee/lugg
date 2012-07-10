@@ -9,7 +9,10 @@ The script...
  - Backs up $HOME
  - Sets $HOME to the new tmp directory
 
-Disclaimer: I'm not a pro at bash. This could be a horrible idea. Seems to work, though.
+Disclaimer: I'm not a pro at bash. This could be a horrible idea and I wouldn't know why. If you are a pro, and
+you recognize that this is in fact a horrible idea, let me know so I can stop hurting the innocent.  
+
+Seems to work, though.
 
 ## Usage
 
