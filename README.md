@@ -1,7 +1,7 @@
 Lugg(age).sh: Take your $HOME with you
 ======================================
 
-RE: ["On Configuration"](http://sstephenson.us/posts/on-configuration). The script...
+The script...
 
  - Creates a tmp directory
  - Checks out your dotfiles repo into it
